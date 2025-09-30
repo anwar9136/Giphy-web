@@ -11,7 +11,7 @@ import Search from "./pages/Search"
 import GifPage from "./pages/GifPage.jsx"
 import Favourites from "./pages/Favourites"
 import GifProvider from "./context/gif-context"
-import Category from "./pages/category.jsx"
+import Category from "./pages/Category.jsx"
 
 
 //favourites
