@@ -9,7 +9,7 @@ import AppLayout from "./layouts/app-layout"
 import Home from "./pages/Home.jsx"
 import Search from "./pages/Search.jsx"
 import GifPage from "./pages/GifPage.jsx"
-import Favourites from "./pages/favourites.jsx"
+import Favourites from "./pages/Favourites.jsx"
 import GifProvider from "./context/gif-context"
 import Category from "./pages/Category.jsx"
 
