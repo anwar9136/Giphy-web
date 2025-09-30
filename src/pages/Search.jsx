@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { GifState } from '../context/gif-context';
 import { useParams } from 'react-router-dom';
 import Gif from '../components/gif';
-import FilterGif from '../components/filter-gif';
+import FilterGif from '../components/FilterGif';
 
 const Search = () => {
   const [searchResults, setSearchResults] = useState([]);

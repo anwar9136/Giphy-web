@@ -7,11 +7,11 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom"
 import AppLayout from "./layouts/app-layout"
 import Home from "./pages/Home.jsx"
-import Search from "./pages/search.jsx"
-import GifPage from "./pages/gif-page.jsx"
+import Search from "./pages/Search.jsx"
+import GifPage from "./pages/GifPage.jsx"
 import Favourites from "./pages/favourites.jsx"
 import GifProvider from "./context/gif-context"
-import Category from "./pages/category.jsx"
+import Category from "./pages/Category.jsx"
 
 
 //favourites

@@ -6,7 +6,7 @@ import Gif from '../components/gif';
 import { FaPaperPlane } from 'react-icons/fa6';
 import { IoCodeSharp } from 'react-icons/io5';
 import { GifState } from '../context/gif-context';
-import FollowOn from '../components/follow-on';
+import FollowOn from '../components/FollowOn';
 
 const contentType = ["gifs", "stickers", "texts"];
 
